@@ -9,12 +9,12 @@ Hands On tutorials building  AI Applications with Hugging Face Open Source Model
 ## Text Processing and NLP Applications ##
 |Topic |Blog |Kaggle Notebook|
 |--------|-------|----------|
-|Building Chatbot Using HuggingFace Open Source Models| [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://github.com/akshay-kamath/hugging-face-tutorials/)| [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/ak2033) 
-|Building Text Translation System using Meta NLLB Open-Source Model| [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://github.com/akshay-kamath/hugging-face-tutorials/)|[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/ak2033) |
+|Building Chatbot Using HuggingFace Open Source Models| [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://github.com/akshay-kamath/hugging-face-tutorials/)| [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/ak2033)|
+|Building Text Translation System using Meta NLLB Open-Source Model| [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://github.com/akshay-kamath/hugging-face-tutorials/)|[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/ak2033)|
 
 ## Conversational AI and Speech Recognition ##
-|Building Chatbot Using HuggingFace Open Source Models| [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://github.com/akshay-kamath/hugging-face-tutorials/)| [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/ak2033) |
-|Building Text Translation System using Meta NLLB Open-Source Model| [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://github.com/akshay-kamath/hugging-face-tutorials/)|[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/ak2033) |
+|Building Chatbot Using HuggingFace Open Source Models| [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://github.com/akshay-kamath/hugging-face-tutorials/)| [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/ak2033)|
+|Building Text Translation System using Meta NLLB Open-Source Model| [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://github.com/akshay-kamath/hugging-face-tutorials/)|[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/ak2033)|
 
 ## Image Processing and Computer Vision ##
 
