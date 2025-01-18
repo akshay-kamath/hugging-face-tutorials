@@ -1,10 +1,6 @@
 # Hugging face tutorials
 Hands On tutorials building  AI Applications with Hugging Face Open Source Models  
 
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@akshay-kamath)
-[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/ak2033)
-![alt_text](https://github.com/akshay-kamath/hugging-face-tutorials/blob/main/huggingface.png)
-
 [![GitHub license](https://img.shields.io/github/license/akshay-kamath/hugging-face-tutorials.svg)](https://github.com/akshay-kamath/hugging-face-tutorials/blob/main/LICENSE)
 [![GitHub contributors](https://img.shields.io/github/contributors/akshay-kamath/hugging-face-tutorials.svg)](https://github.com/akshay-kamath/hugging-face-tutorials/graphs/contributors/)
 [![GitHub issues](https://img.shields.io/github/issues/akshay-kamath/hugging-face-tutorials.svg)](https://github.com/akshay-kamath/hugging-face-tutorials/issues/)
@@ -15,7 +11,9 @@ Hands On tutorials building  AI Applications with Hugging Face Open Source Model
 [![GitHub forks](https://img.shields.io/github/forks/akshay-kamath/hugging-face-tutorials.svg?style=social&label=Fork)](https://github.com/akshay-kamath/hugging-face-tutorials/network/)
 [![GitHub stars](https://img.shields.io/github/stars/akshay-kamath/hugging-face-tutorials.svg?style=social&label=Star)](https://github.com/akshay-kamath/hugging-face-tutorials/stargazers/)
 
-
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@akshay-kamath)
+[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/ak2033)
+![alt_text](https://github.com/akshay-kamath/hugging-face-tutorials/blob/main/huggingface.png)
 
 ## Text Processing and NLP Applications ##
 |Topic |Blog |Kaggle Notebook|
