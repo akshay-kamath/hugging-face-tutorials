@@ -2,7 +2,6 @@
 Hands On tutorials building  AI Applications with Hugging Face Open Source Models  
 
 [![GitHub license](https://img.shields.io/github/license/akshay-kamath/hugging-face-tutorials.svg)](https://github.com/akshay-kamath/hugging-face-tutorials/blob/main/LICENSE)
-[![GitHub contributors](https://img.shields.io/github/contributors/akshay-kamath/hugging-face-tutorials.svg)](https://github.com/akshay-kamath/hugging-face-tutorials/graphs/contributors/)
 [![GitHub issues](https://img.shields.io/github/issues/akshay-kamath/hugging-face-tutorials.svg)](https://github.com/akshay-kamath/hugging-face-tutorials/issues/)
 [![GitHub pull-requests](https://img.shields.io/github/issues-pr/akshay-kamath/hugging-face-tutorials.svg)](https://github.com/akshay-kamath/hugging-face-tutorials/pulls/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
